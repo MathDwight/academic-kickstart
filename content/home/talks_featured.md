@@ -1,7 +1,8 @@
 +++
 # Featured Talks widget.
-widget = "talks_featured"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+widget = "talks_featured"
+active = false
+date = 2016-04-20T00:00:00
 
 title = "Featured Talks"
 subtitle = ""
@@ -9,9 +10,9 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 29
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view = 3
+# List format.
+#   0 = Simple
+#   1 = Detailed
+#   3 = Stream
+list_format = 0
 +++

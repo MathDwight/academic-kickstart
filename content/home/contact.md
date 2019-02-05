@@ -1,7 +1,8 @@
 +++
 # Contact widget.
-widget = "contact"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+widget = "contact"
+active = true
+date = 2019-02-04T00:00:00
 
 title = "Contact"
 subtitle = ""
@@ -18,4 +19,3 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 +++
-

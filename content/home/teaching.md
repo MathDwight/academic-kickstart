@@ -2,11 +2,12 @@
 # Custom widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+widget = "custom"
+active = true
+date = 2019-02-04T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching at UTA"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -14,6 +15,20 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+Spring 2019
+
+[MATH 1316 - Business Calculus](https://elearn.uta.edu/webapps/blackboard/content/listContent.jsp?course_id=_448666_1&content_id=_7844191_1)
+
+
+Fall 2018
+
+[MATH 3330 - Linear Algebra](https://elearn.uta.edu/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_438757_1)
+
+Fall 2017
+
+[MATH 1421 - Precalculus](https://elearn.uta.edu/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_376419_1)
+
+Summer 2017
+
+[MATH 1302 - College Algebra](https://elearn.uta.edu/webapps/blackboard/content/listContent.jsp?course_id=_353410_1&content_id=_5703893_1)

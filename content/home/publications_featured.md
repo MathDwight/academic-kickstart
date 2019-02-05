@@ -1,9 +1,10 @@
 +++
 # Featured Publications widget.
 # This widget displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
-widget = "publications_featured"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+# `featured = true` in their `+++` front matter.
+widget = "publications_featured"
+active = false
+date = 2016-04-20T00:00:00
 
 title = "Featured Publications"
 subtitle = ""
@@ -11,12 +12,13 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 10
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view = 3
+# List format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = APA
+#   3 = MLA
+#   4 = Stream
+list_format = 1
 
 # Filter by publication type.
 # -1: Any
@@ -29,4 +31,3 @@ view = 3
 #  6: Book chapter
 publication_type = "-1"
 +++
-

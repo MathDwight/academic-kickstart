@@ -1,7 +1,8 @@
 +++
 # Projects widget.
-widget = "projects"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+widget = "projects"
+active = false
+date = 2016-04-20T00:00:00
 
 title = "Projects"
 subtitle = ""
@@ -15,10 +16,9 @@ weight = 50
 folder = "project"
 
 # View.
-#   1 = List
-#   3 = Card
-#   5 = Showcase
-view = 3
+# Customize how projects are displayed.
+# Legend: 0 = list, 1 = cards, 2 = showcase.
+view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
@@ -49,4 +49,3 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
-
